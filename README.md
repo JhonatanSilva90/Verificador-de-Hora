@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Acesse o projeto finalizado, online](https://jhonatansilva90.github.io/Verificador-de-Idade/)
+- [Acesse o projeto finalizado, online](https://jhonatansilva90.github.io/Verificador-de-Hora/)
